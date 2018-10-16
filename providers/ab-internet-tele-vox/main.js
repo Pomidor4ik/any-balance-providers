@@ -19,7 +19,7 @@ function main(){
 
     AnyBalance.setDefaultCharset('utf-8');
 
-    var baseurl = "http://www.tele-vox.ru/";
+    var baseurl = "https://www.tele-vox.ru/";
 
     var html = AnyBalance.requestPost(baseurl, {
         midAuth:0,
