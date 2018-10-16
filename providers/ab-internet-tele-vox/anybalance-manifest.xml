@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <provider>
-  <id version="3">ab-internet-tele-vox</id>
+  <id version="3.1">ab-internet-tele-vox</id>
   <api flags="no_browser"/>
   <name>Телевокс (Благовещенск)</name>
   <description>
